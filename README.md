@@ -2,7 +2,7 @@
 
 - 🔭 Apaixonado por programação principalmente para a are de cybersegurança digital!
 - 🌱 Estudante de CyberSegurança e Programação.
-- 
+- 📫 Caso queira me contatar: anthonypssantos38@gmail.com
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anthony Pessato&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
@@ -26,5 +26,10 @@
   <a href = "mailto:anthonypssantos38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
    <a href="https://www.linkedin.com/in/Anthony-Pessato-094755237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
+  
+  
+
   ##
+  
+  
+  
