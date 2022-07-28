@@ -2,6 +2,7 @@
 
 - 🔭 Apaixonado por programação principalmente para a are de cybersegurança digital!
 - 🌱 Estudante de CyberSegurança e Programação.
+- 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anthony Pessato&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
