@@ -5,7 +5,7 @@
 - 📫 Caso queira me contatar: anthonypssantos38@gmail.com
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anthony Pessato&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OPA,+Bem+vindo+ao+meu+github;Eu+tenho+19+anos;E+estou+morando+no+Brasil+RS;Estudante+de+tecnologia+da+informação+no+Senac-RS;:%29)](https://git.io/typing-svg)
 
