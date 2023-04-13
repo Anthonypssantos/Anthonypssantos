@@ -7,7 +7,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OPA,+Bem+vindo+ao+meu+github;Eu+tenho+20+anos;E+estou+morando+no+Brasil+RS;Estudante+de+tecnologia+da+informação+no+Senac-RS;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=OPA,+Bem+vindo+ao+meu+github;Eu+tenho+20+anos;E+estou+morando+no+Brasil+RS;;:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/Anthonypssantos">
